@@ -8,6 +8,7 @@
 * [Manzini](https://github.com/TManzini/DebiasMulticlassWordEmbedding)
 ## Directory Structure
 
+```bash
 data
 ├── Bolukbasi
 │	├── hard_debiased_w2v-002.npy
@@ -33,3 +34,4 @@ data
     ├── gn_glove.wv.npy
     ├── orig_glove.vocab
     └── orig_glove.wv.npy
+```
